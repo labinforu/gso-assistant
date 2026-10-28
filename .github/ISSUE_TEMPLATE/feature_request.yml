@@ -1,0 +1,27 @@
+name: Предложение по улучшению
+description: Предложить новую функцию для ГСО-Ассистента
+title: "[Предложение] "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Пожалуйста, не прикрепляйте документы лаборатории, паспорта партий и другие конфиденциальные данные.
+  - type: textarea
+    id: problem
+    attributes:
+      label: Какую задачу лаборатории необходимо решить
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: Как Вы предлагаете это реализовать
+    validations:
+      required: true
+  - type: textarea
+    id: extra
+    attributes:
+      label: Дополнительные замечания (необязательно)
+    validations:
+      required: false

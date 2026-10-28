@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="t">
+<title id="t">ГСО-Ассистент — документ стандартного образца</title>
+<defs>
+ <linearGradient id="bg" x1=".15" y1=".05" x2=".85" y2="1"><stop stop-color="#27cede"/><stop offset=".55" stop-color="#079fc1"/><stop offset="1" stop-color="#05738f"/></linearGradient>
+ <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffffff"/><stop offset="1" stop-color="#cdfdff"/></linearGradient>
+</defs>
+<path d="M33 5h62l28 28v62l-28 28H33L5 95V33z" fill="url(#bg)"/>
+<path d="M33 7h62l26 26" fill="none" stroke="#ffffff" stroke-opacity=".18" stroke-width="4"/>
+<path d="M32 34a6 6 0 016-6h44l13 13v49a6 6 0 01-6 6H38a6 6 0 01-6-6z" fill="none" stroke="#fff" stroke-width="6" stroke-linejoin="round"/>
+<path d="M82 28v12h13" fill="none" stroke="#fff" stroke-width="5" stroke-linejoin="round"/>
+<path d="M46 46h26" stroke="#b7faff" stroke-width="5" stroke-linecap="round"/>
+<path d="M56 55v12l-10 16a4 4 0 003.4 6h28.2a4 4 0 003.4-6L71 67V55" fill="url(#glass)" stroke="#fff" stroke-width="3.5" stroke-linejoin="round"/>
+<path d="M49 77h29" stroke="#009fbb" stroke-width="4" stroke-linecap="round"/>
+<path d="M57 67h13" stroke="#009fbb" stroke-width="3.5" stroke-linecap="round"/>
+<circle cx="86" cy="88" r="14" fill="#0e88a4" stroke="#fff" stroke-width="3"/>
+<path d="m80 88 4 4 8-9" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,20 @@
+# Репозиторий содержит документацию, но не исходный код и не сборочные артефакты
+*.exe
+*.dll
+*.pyd
+*.zip
+*.sqlite
+*.sqlite3
+*.db
+*.bak
+*.log
+.env
+.env.*
+__pycache__/
+.build_venv/
+.venv/
+venv/
+dist/
+build/
+build_artifacts/
+output/
