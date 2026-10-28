@@ -11,8 +11,8 @@
 
 ## Скачивание и установка
 
-1. Откройте [Releases](https://github.com/labinforu/gso-assistant/releases) и найдите предварительный выпуск **v0.3.0-beta1** (после его публикации).
-2. В разделе **Assets** скачайте файл `GSOAssistant_0.3.0-beta1_Setup.exe`.
+1. Откройте [выпуск v0.3.0-beta1](https://github.com/labinforu/gso-assistant/releases/tag/v0.3.0-beta1).
+2. В разделе **Assets** скачайте [GSOAssistant_0.3.0-beta1_Setup.exe](https://github.com/labinforu/gso-assistant/releases/download/v0.3.0-beta1/GSOAssistant_0.3.0-beta1_Setup.exe) и [SHA256SUMS.txt](https://github.com/labinforu/gso-assistant/releases/download/v0.3.0-beta1/SHA256SUMS.txt).
 3. Для проверки подлинности вычислите SHA-256 в PowerShell:
 
    ```powershell
