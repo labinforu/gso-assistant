@@ -4,13 +4,17 @@
 
 **ГСО-Ассистент** — бесплатная локальная программа Lab-Info для учёта стандартных образцов в испытательных лабораториях. Она помогает учитывать **ГСО, СОП, зарубежные и другие стандартные образцы**, регистрировать их фактические партии, хранить паспорта и сопроводительные документы, получать доступные сведения из ФГИС «Аршин» и готовить **форму 5**.
 
-> **Готовится первый предварительный выпуск:** **0.3.0 Beta 1** для Windows 10/11 x64. После загрузки установщика он появится в разделе [Releases](https://github.com/labinforu/gso-assistant/releases). Собственный исходный код программы в репозитории не публикуется.
+> **Текущий выпуск:** [0.3.0 Beta 1](https://github.com/labinforu/gso-assistant/releases/tag/v0.3.0-beta1) — предварительная версия (**Pre-release**) для Windows 10/11 x64. Собственный исходный код программы в репозитории не публикуется.
 
 ## Скачать и установить
 
-**[Перейти к выпускам программы (Releases)](https://github.com/labinforu/gso-assistant/releases)**
+**[Скачать ГСО-Ассистент 0.3.0 Beta 1 для Windows](https://github.com/labinforu/gso-assistant/releases/download/v0.3.0-beta1/GSOAssistant_0.3.0-beta1_Setup.exe)**
 
-После публикации версии `v0.3.0-beta1` скачайте `GSOAssistant_0.3.0-beta1_Setup.exe` из вложений выпуска. Отдельно устанавливать Python не требуется. [Подробная инструкция](INSTALL.md).
+- [Описание выпуска](https://github.com/labinforu/gso-assistant/releases/tag/v0.3.0-beta1)
+- [Контрольная сумма SHA-256 (SHA256SUMS.txt)](https://github.com/labinforu/gso-assistant/releases/download/v0.3.0-beta1/SHA256SUMS.txt)
+- [Инструкция по установке](INSTALL.md)
+
+Установщик предназначен для Windows 10/11 x64. Отдельно устанавливать Python не требуется.
 
 Контрольная сумма SHA-256 подготовленного установщика 0.3.0 Beta 1:
 
