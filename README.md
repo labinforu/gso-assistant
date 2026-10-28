@@ -10,7 +10,7 @@
 
 **[Скачать ГСО-Ассистент 0.3.0 Beta 1 для Windows](https://github.com/labinforu/gso-assistant/releases/download/v0.3.0-beta1/GSOAssistant_0.3.0-beta1_Setup.exe)**
 
-- [Описание выпуска](https://github.com/labinforu/gso-assistant/releases/tag/v0.3.0-beta1)
+- [Что нового в версии](RELEASE_NOTES.md)
 - [Контрольная сумма SHA-256 (SHA256SUMS.txt)](https://github.com/labinforu/gso-assistant/releases/download/v0.3.0-beta1/SHA256SUMS.txt)
 - [Инструкция по установке](INSTALL.md)
 
